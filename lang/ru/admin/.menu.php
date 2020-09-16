@@ -1,0 +1,4 @@
+<?
+$MESS["MEIJI_SOLUTION_MONITOR_ADMINMENU_ITEM_TEXT"] = "Монитор сайта";
+$MESS["MEIJI_SOLUTION_MONITOR_ADMINMENU_ITEM_TITLE"] = "Монитор данных сайта";
+?>
